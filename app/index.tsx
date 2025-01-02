@@ -7,6 +7,7 @@ import { AuthProvider } from "@/context/AuthContext";
 type Props = {};
 
 const WelcomeScreen = (props: Props) => {
+
   return (
     <SafeAreaView>
     <View style={styles.container} >
